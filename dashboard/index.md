@@ -1,10 +1,8 @@
-# Air Quality Dashboard
+# Bike Sharing predictions for Trento
 
-![Hopsworks Logo](./assets/img/logo.png)
+![Hopsworks Logo](./img/logo.png)
 
-{% include air-quality.html %}
-
-![Forecast](./assets/img/pm25_forecast.png)
+![Forecast](./img/bikes_forecast_10.01%20Bren%20Center.png)
 
 
 
@@ -12,4 +10,4 @@
 
 1-Day Hindcast: Predictions vs Outcomes
 
-![Hindcast](./assets/img/pm25_hindcast_1day.png)
+![Hindcast](./img/bikes_hindcast_1day_10.01%20Bren%20Center.png.png)
