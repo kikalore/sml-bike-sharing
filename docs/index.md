@@ -171,7 +171,7 @@ function updateStation() {
     nomi: "./img/bikes_forecast_19.01 Nomi.png",
     stazione_fs2: "./img/bikes_forecast_20.01 Stazione F.S..png",
     ospedale: "./img/bikes_forecast_20.02 Ospedale.png",
-    municipio2: "./img/bikes_forecast_20.03 Municipio 2.png",
+    municipio2: "./img/bikes_forecast_20.03 Municipio.png",
     mart: "./img/bikes_forecast_20.04 Mart.png",
     zona_industriale: "./img/bikes_forecast_20.05 Zona Industriale.png",
     paoli: "./img/bikes_forecast_20.06 Paoli.png",
